@@ -246,6 +246,8 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
+
+
 /*
 //udah bagus mau add tambahan fitur
 import SwiftUI

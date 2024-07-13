@@ -19,6 +19,7 @@ struct SplashView: View {
             .edgesIgnoringSafeArea(.all)
             
             
+        
             .onAppear {
                 // After 3 seconds, hide the splash screen.
                 DispatchQueue.main.asyncAfter(deadline: .now() + 3) {

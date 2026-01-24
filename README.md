@@ -14,10 +14,11 @@ Harness the strength of self-affirmation and stay motivated throughout your day 
 
 Feel free to contribute to the project by submitting issues, feature requests, or even pull requests. Let's collectively build a tool that helps everyone on their journey to self-empowerment and positivity.
 
+Developer : Pieter Yoshua Natanael
 
 Privacy Policy for iProgramMe
 
-At Pieter Yoshua NatanaeL, we prioritize the privacy and security of our users. This Privacy Policy outlines how information is collected, used, and protected within the iProgramMe mobile application.
+At Pieter Yoshua Natanael, we prioritize the privacy and security of our users. This Privacy Policy outlines how information is collected, used, and protected within the iProgramMe mobile application.
 
 Information Collection and Use
 

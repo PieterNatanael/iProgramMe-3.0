@@ -1,5 +1,4 @@
 # iProgramMe
- Late-night conversation with my friend Ross Presgrave, during which we exchanged ideas about a self-programming solution. Our thesis is that individuals have a strong inclination to program themselves.
 
 Empower yourself with iProgramMe! Create custom affirmations, schedule notifications, & stay inspired daily. Your positive journey starts now."
 

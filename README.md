@@ -1,6 +1,6 @@
 # iProgramMe
 
-Empower yourself with iProgramMe! Create custom affirmations, schedule notifications, & stay inspired daily. Your positive journey starts now."
+Empower yourself with iProgramMe! Create custom affirmations, schedule notifications, & stay inspired daily. Your positive journey starts now.
 
 Unlock your potential with iProgramMe – the empowering app that puts the power of positive programming in your hands. Inspired by the original idea from Ross Presgrave, iProgramMe allows you to customize your daily affirmations and set notifications to uplift and motivate yourself whenever you need it most.
 With iProgramMe, you can effortlessly:
